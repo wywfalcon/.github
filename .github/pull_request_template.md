@@ -1,7 +1,6 @@
-## Ticket
-https://gatereaper.atlassian.net/jira/software/projects/GC/boards/1?selectedIssue=GAME-10
+## [Ticket]()
 
-## Change Log
+## Change Logs
 1. ...
 
 ## Testing
